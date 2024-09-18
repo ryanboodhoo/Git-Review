@@ -4,8 +4,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-src/main/java/my_passwords.txt.idea/jarRepositories.xml
-.idea/compiler.xml
+src/main/java/my_passwords.txt.idea/compiler.xml
 .idea/libraries/
 *.iws
 *.iml
